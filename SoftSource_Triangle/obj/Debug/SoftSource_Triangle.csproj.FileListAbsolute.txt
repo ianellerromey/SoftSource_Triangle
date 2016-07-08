@@ -1,0 +1,6 @@
+C:\Users\Ian Eller-Romey\Documents\GitHub\SoftSource_Triangle\SoftSource_Triangle\bin\Debug\SoftSource_Triangle.exe.config
+C:\Users\Ian Eller-Romey\Documents\GitHub\SoftSource_Triangle\SoftSource_Triangle\bin\Debug\SoftSource_Triangle.exe
+C:\Users\Ian Eller-Romey\Documents\GitHub\SoftSource_Triangle\SoftSource_Triangle\bin\Debug\SoftSource_Triangle.pdb
+C:\Users\Ian Eller-Romey\Documents\GitHub\SoftSource_Triangle\SoftSource_Triangle\obj\Debug\SoftSource_Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Ian Eller-Romey\Documents\GitHub\SoftSource_Triangle\SoftSource_Triangle\obj\Debug\SoftSource_Triangle.exe
+C:\Users\Ian Eller-Romey\Documents\GitHub\SoftSource_Triangle\SoftSource_Triangle\obj\Debug\SoftSource_Triangle.pdb
